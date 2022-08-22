@@ -7,3 +7,5 @@
       require(`./funcs/${folder}/${file}`)(client);
     }
   }
+
+// add const fs = require("fs") at the top of ur file
