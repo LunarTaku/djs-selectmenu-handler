@@ -1,7 +1,7 @@
 const { readdirSync } = require("fs");
 
 module.exports = (client) => {
-  client.componentHandler = async () => {
+  client.selectMenuhandler = async () => {
     const componentFolder = readdirSync("./src/handlers"); // replace "selectHandler" with your component file location
     for (const folder of componentFolder) {
       const componentFiles = readdirSync(`./src/handlers/${folder}`).filter( // replace "selectHandler" with your component file location
