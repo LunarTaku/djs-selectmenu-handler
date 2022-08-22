@@ -12,3 +12,6 @@ A full select menu handler with only raw javascript code!
 
 ## Contributing:
 > if you want to contribute create a fork of this project and when you are done editing it update the fork and create a pull request.
+
+## Credits
+> Thank you Anon#2734 for the function handler :)
