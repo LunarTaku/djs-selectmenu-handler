@@ -8,6 +8,7 @@ A full select menu handler with only raw javascript code!
 2. Place `selectMenuHandler.js` in the folder you selected in `handlerLoader.js`.
 3. Place `color-menu.js` in the file you selected in `selectMenuHandler.js`.
 4. Place `testMenu.js` in your commands folder.
+5. Add the code in InteractionCreate.js to your InteractionCreate
 5. Now start your bot and the command should work! For errors create a new discusstion or an error in `issues`!
 
 ## Contributing:
